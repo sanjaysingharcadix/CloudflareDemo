@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Hi Sanjay
-        </a
+        </a>
       </header>
     </div>
   );
